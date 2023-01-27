@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+    front-famyly: "arial";
+    color:rgb(207, 35, 35);
+
+
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 10px:solid #000;
+    margin:0 auto
+
+}
+
+#cabecera{
+    background: #999;
+    color #ff0000
+
+}
